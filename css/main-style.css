@@ -1,0 +1,21 @@
+:root {
+    --main-dark-color: #006633;
+}
+
+body {
+    font-family: "Montserrat", sans-serif;
+}
+
+.container {
+    width: 100%;
+    max-width: 1200px;
+    margin: 0 auto;
+    padding: 0 15px;
+}
+
+.title {
+    text-align: center;
+    margin-bottom: 50px;
+    font-size: 40px;
+    font-weight: 600;
+}
